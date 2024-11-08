@@ -23,6 +23,10 @@ Please install VNC according to your computer's :computer: Operating System (OS)
 
 ## :bookmark: Module Contents
 <details>
+    <summary>Module 0: Machine Vision/Computer Vision Project Pipeline</summary>
+</details>
+
+<details>
     <summary>Module 1: Introduction to Machine Vision</summary>
 </details>
 
