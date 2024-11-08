@@ -14,7 +14,7 @@ Less hassle I hope. Let's rockin :rocket: get ready to dive into the world of **
 
 ### :gear: Pre-Installation
 
-We will use Virtual Network Computing (VNC) for GUI interaction with our headless Raspberry Pi setup. 
+We will use [Virtual Network Computing (VNC)](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=aqKBRwpKvt6xN&lai_sr=0-4&lai_sl=l&lai_p=1) for GUI interaction with our headless Raspberry Pi setup. 
 
 Please install VNC according to your computer's :computer: Operating System (OS)
 
