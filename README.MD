@@ -12,7 +12,7 @@ Just bring your laptop, SD card, Raspberry Pi and power adapter!
 
 Less hassle I hope. Let's rockin :rocket: get ready to dive into the world of **Machine Vision with Raspberry Pi!** :sparkles:
 
-### :gear: Pre-Installation
+## :gear: Pre-Installation
 
 We will use [Virtual Network Computing (VNC)](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=aqKBRwpKvt6xN&lai_sr=0-4&lai_sl=l&lai_p=1) for GUI interaction with our headless Raspberry Pi setup. 
 
