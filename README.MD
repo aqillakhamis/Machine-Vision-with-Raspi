@@ -23,5 +23,5 @@ Please install VNC according to your computer's :computer: Operating System (OS)
 
 ## :bookmark: Module Contents
 - Module 1 : Introduction to Machine Vision :robot:
-- Module 2 : Introduction to Raspberry Pi :grape: 
+- Module 2 : Introduction to Raspberry Pi :grapes: 
 
