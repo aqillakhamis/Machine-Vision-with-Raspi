@@ -22,5 +22,6 @@ Please install VNC according to your computer's :computer: Operating System (OS)
 - 🪟 [Windows Operating System](https://downloads.realvnc.com/download/file/viewer.files/VNC-Viewer-7.12.1-Windows.exe?lai_vid=aqKBRwpKvt6xN&lai_sr=0-4&lai_sl=l&lai_p=1)
 
 ## :bookmark: Module Contents
-
+- Module 1 : Introduction to Machine Vision :robot:
+- Module 2 : Introduction to Raspberry Pi :grape: 
 
