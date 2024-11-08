@@ -27,12 +27,12 @@ Please install VNC according to your computer's :computer: Operating System (OS)
 </details>
 
 <details>
-    <summary>Module 1: Overview Machine Vision & Raspberry Pi</summary>
+    <summary>Module 1: Overview of Machine Vision</summary>
 
 </details>
 
 <details>
-    <summary>Module 2: Configuring Raspberry Pi</summary>
+    <summary>Module 2: Overview of Raspberry Pi</summary>
 </details>
 
 <details>
