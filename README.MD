@@ -12,4 +12,4 @@ Just bring your laptop, SD card, Raspberry Pi and power adapter!
 
 Less hassle I hope. Let's rockin :rocket: get ready to dive into the world of **Machine Vision with Raspberry Pi!** :sparkles:
 
-
+# :gear: Pre-Installation
