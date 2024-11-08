@@ -8,4 +8,4 @@ Welcome to my **Machine Vision with Raspberry Pi** repository :octocat:! This re
 
 Just bring your laptop, SD card, Raspberry Pi and power adapter!
 
-Less hassle I hope. Let's rockin get ready to dive into the world of **Machine Vision with Raspberry Pi**!:star:
+Less hassle I hope. Let's rockin get ready to dive into the world of **Machine Vision with Raspberry Pi!** :star2:
