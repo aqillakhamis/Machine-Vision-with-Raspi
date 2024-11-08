@@ -24,7 +24,7 @@ Please install VNC according to your computer's :computer: Operating System (OS)
 ## :bookmark: Module Contents
 <details>
     <summary>Module 0: Training Introduction</summary>
-    [Power Point Slide](https://github.com/aqillakhamis/Machine-Vision-with-Raspi/blob/main/modules/Module%200%20-%20Training%20Introduction/Module%200%20-%20Training%20Introduction.pdf)
+    - [Power Point Slide](https://github.com/aqillakhamis/Machine-Vision-with-Raspi/blob/main/modules/Module%200%20-%20Training%20Introduction/Module%200%20-%20Training%20Introduction.pdf)
 </details>
 
 <details>
