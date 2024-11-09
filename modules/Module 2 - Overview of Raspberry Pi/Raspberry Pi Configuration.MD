@@ -83,11 +83,15 @@ Click **SAVE** to save all settings and proceed with clicking `YES`. This will d
 
 * For Windows: Open `command prompt`. In your command prompt: 
 
-    `ping <Raspi HOSTNAME> -4`
+    ```
+    ping <Raspi HOSTNAME> -4
+    ```
 
 * For MacOS: Open `terminal`. In your terminal:
 
-    `ping <raspi HOSTNAME>.local`
+    ```
+    ping <raspi HOSTNAME>.local
+    ```
 
 2. Make sure your laptop connected with the same network with the one you use in the **Configure Wireless LAN**. 
 
@@ -97,6 +101,8 @@ Click **SAVE** to save all settings and proceed with clicking `YES`. This will d
 
 2. SSH into the Raspberry Pi by type the following command, replacing `<IP_ADDRESS>` with the actual IP address of your Raspberry Pi: 
 
-    ```ssh pi@<IP_ADDRESS>
+    ```
+    ssh pi@<IP_ADDRESS>
+    ```
 
 
