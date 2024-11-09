@@ -76,3 +76,21 @@ Click **SAVE** to save all settings and proceed with clicking `YES`. This will d
 1. **Insert the SD card**: Insert the SD card into your Raspberry Pi. 
 
 2. **Connect Raspberry Pi Power Adapter**: Plug in the power adapter to your Raspberry Pi and turn it on. The Pi will automatically boot up and connect to Wi-Fi (this may take a minute or two). 
+
+## Step 7: Find the Raspberry Pi's IP Address 
+
+1. Find your Raspberry Pi IP address. 
+
+* For Windows: Open `command prompt`. In your command prompt: 
+
+`ping <Raspi HOSTNAME> -4`
+
+* For MacOS: Open `terminal`. In your terminal:
+
+`ping <raspi HOSTNAME>.local`
+
+2. Make sure your laptop connected with the same network with the one you use in the **Configure Wireless LAN**. 
+
+## Step 8: Access Your Raspberry Pi via SSH
+
+1. On your laptop, open 
