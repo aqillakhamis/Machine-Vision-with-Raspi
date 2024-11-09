@@ -105,4 +105,9 @@ Click **SAVE** to save all settings and proceed with clicking `YES`. This will d
     ssh pi@<IP_ADDRESS>
     ```
 
+3. The first time you connect, you'll see a message asking if you want to continue. Type `yes` and press `enter`. 
+
+4. Enter the password the one you have set in Step 4 **Set Username and Password**. 
+
+Now you're logged into your Raspberry Pi via SSH! 🎉🥳
 
