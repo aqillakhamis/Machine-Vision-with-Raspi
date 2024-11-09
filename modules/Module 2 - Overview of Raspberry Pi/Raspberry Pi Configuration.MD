@@ -38,13 +38,13 @@ This configuration is for a headless Raspberry Pi setup. You will need your lapt
 ## Step 4 : OS Customisation
 
 <p align="center">
-    <img src = "" alt="OS Customisation" />
+    <img src = "https://github.com/aqillakhamis/Machine-Vision-with-Raspi/blob/main/assets/os-customisation.png" alt="OS Customisation" />
 </p>
 
 1. **Edit Settings**: Click edit settings to configure general setup your Raspberry Pi
 
 <p align="center">
-    <img src = "" alt="OS Customisation General" />
+    <img src = "https://github.com/aqillakhamis/Machine-Vision-with-Raspi/blob/main/assets/os-customisation-1.png" alt="OS Customisation General" />
 </p>
 
 In `GENERAL` tab: 
