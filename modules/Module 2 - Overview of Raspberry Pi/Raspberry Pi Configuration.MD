@@ -58,7 +58,7 @@ In `GENERAL` tab:
 4. **Wireless LAN Country**: Select MY (Malaysia)
 
 <p align="center">
-    <img src = "" alt="OS Customisation Services" />
+    <img src = "https://github.com/aqillakhamis/Machine-Vision-with-Raspi/blob/main/assets/os-customisation-2.png" alt="OS Customisation Services" />
 </p>
 
 In `SERVICES` tab: 
