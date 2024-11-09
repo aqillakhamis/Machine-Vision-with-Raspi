@@ -21,7 +21,9 @@ This configuration is for a headless Raspberry Pi setup. You will need your lapt
 
 ## Step 3: Install Raspberry Pi OS using the Raspberry Pi Imager
 
-![Raspberry Pi Imager](./assets/raspi imager.png)
+<p align="center">
+    <img src = "https://github.com/aqillakhamis/Machine-Vision-with-Raspi/blob/main/assets/raspi%20imager.png" alt="Raspberry Pi Imager" />
+</p>
 
 1. **Open Raspberry Pi Imager**: Launch the Raspberry Pi Imager you installed earlier.
 
