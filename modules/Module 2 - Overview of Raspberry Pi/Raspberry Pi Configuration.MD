@@ -97,6 +97,6 @@ Click **SAVE** to save all settings and proceed with clicking `YES`. This will d
 
 2. SSH into the Raspberry Pi by type the following command, replacing `<IP_ADDRESS>` with the actual IP address of your Raspberry Pi: 
 
-    ```ssh pi@<IP_ADDRESS>```
+    ```ssh pi@<IP_ADDRESS>
 
 
