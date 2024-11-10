@@ -111,3 +111,18 @@ Click **SAVE** to save all settings and proceed with clicking `YES`. This will d
 
 Now you're logged into your Raspberry Pi via SSH! 🎉🥳
 
+## Step 9: Enable VNC in Raspberry Pi
+
+We will use Real VNC Viewer for our Raspberry Pi User Interface (UI). In your terminal/command prompt, type:
+
+```
+sudo raspi-config
+```
+
+Go to interface option > VNC > select `enable`
+
+
+
+
+
+
