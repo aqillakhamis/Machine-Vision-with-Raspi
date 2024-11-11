@@ -32,7 +32,7 @@ Please install VNC according to your computer's :computer: Operating System (OS)
 <details>
     <summary>Module 1: Overview of Machine Vision</summary>
     <ul>
-        <li><a href="" target="_blank"><u>Module 1 Slide</u></a></li>
+        <li><a href="https://github.com/aqillakhamis/Machine-Vision-with-Raspi/blob/main/modules/Module%201%20-%20Overview%20Machine%20Vision/Module%201%20-%20Overview%20of%20Machine%20Vision.pdf" target="_blank"><u>Module 1 PDF Slide</u></a></li>
     </ul>
 
 </details>
