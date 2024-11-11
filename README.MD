@@ -31,6 +31,9 @@ Please install VNC according to your computer's :computer: Operating System (OS)
 
 <details>
     <summary>Module 1: Overview of Machine Vision</summary>
+    <ul>
+        <li><a href="" target="_blank"><u>Module 1 Slide</u></a></li>
+    </ul>
 
 </details>
 
