@@ -40,7 +40,7 @@ Please install VNC according to your computer's :computer: Operating System (OS)
 <details>
     <summary>Module 2: Overview of Raspberry Pi</summary>
     <ul>
-        <li><a href="" target="_blank"><u>Module 2 PDF Slide</u></a></li>
+        <li><a href="https://github.com/aqillakhamis/Machine-Vision-with-Raspi/blob/main/modules/Module%202%20-%20Overview%20of%20Raspberry%20Pi/Module%202%20-%20Overview%20of%20Raspberry%20Pi.pdf" target="_blank"><u>Module 2 PDF Slide</u></a></li>
     </ul>
     <ul>
         <li><a href="https://github.com/aqillakhamis/Machine-Vision-with-Raspi/blob/main/modules/Module%202%20-%20Overview%20of%20Raspberry%20Pi/Raspberry%20Pi%20Configuration.MD" target="_blank"><u>Raspberry Pi Configuration</u></a></li>
