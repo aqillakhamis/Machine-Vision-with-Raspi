@@ -50,6 +50,13 @@ Please install VNC according to your computer's :computer: Operating System (OS)
 
 <details>
     <summary>Module 3: Deploying Machine Vision Model on Raspberry Pi</summary>
+    <ul>
+        <li><a href="https://github.com/aqillakhamis/Machine-Vision-with-Raspi/blob/main/modules/Module%203%20-%20Deploying%20Machine%20Vision%20Model%20on%20Raspberry%20Pi/Headless%20Raspberry%20Pi%20%26%20Enable%20VNC.MD" target="_blank"><u>Headless Raspberry Pi & Enable VNC</u></a></li>
+    </ul>
+    <ul>
+        <li><a href="https://github.com/aqillakhamis/Machine-Vision-with-Raspi/blob/main/modules/Module%203%20-%20Deploying%20Machine%20Vision%20Model%20on%20Raspberry%20Pi/Creating%20Virtual%20Environment.MD" target="_blank"><u>Creating Virtual Environment</u></a></li>
+    </ul>
+
 </details>
 
 
